@@ -20,6 +20,7 @@
         app:cardElevation="4dp">
 
         <LinearLayout
+            android:background="#87bdd8"
             android:orientation="horizontal"
             android:weightSum="10"
             android:layout_gravity="center"
